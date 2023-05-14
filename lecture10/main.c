@@ -1,39 +1,33 @@
-#include <stdio.h>
-
+#include<stdio.h>
 
 int main()
-{	
-	char screen[500];/*가로 :30 세로:15*/
-
-	int i = 0;
-	while(i<450)
+{
+	char screen[450];
+	int a = 0;
+	while(a<15)
 	{
-		screen[i]='0';
-		i=i+1;
+		int b = 0;
+		while(b<30)
+		{
+			if(a==0||a==14)
+			{
+				screen[b]='*';
+			}
+			else if(b==0||b==29)
+			{
+				screen[b]='*';
+			}
+			else
+			{
+				screen[b]=' ';
+			}
+			b+=1;
+		}
+		screen[30]='\n';
+		screen[31]='\0';
+		printf("%s",screen);
+		a+=1;
 	}
-	
-	screen[465]='\0';
-	screen[30]='\n';
-	screen[61]='\n';
-	screen[92]='\n';
- 	screen[123]='\n';
-	screen[154]='\n';
-	screen[185]='\n';
-	screen[216]='\n';
-	screen[247]='\n';
-	screen[278]='\n';
-	screen[309]='\n';
-	screen[340]='\n';
-	screen[371]='\n';
-	screen[402]='\n';
-	screen[433]='\n';
-	screen[464]='\n';
-
-
-
-
-
-
 	return 0;
 }
-
+		
