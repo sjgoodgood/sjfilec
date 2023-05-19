@@ -25,6 +25,9 @@ int main()
 		}
 		screen[30]='\n';
 		screen[31]='\0';
+		
+		/*같게 쓰면 별이 안이어짐*/
+		
 		printf("%s",screen);
 		a+=1;
 	}
