@@ -2,20 +2,24 @@
 #include "screen.h"
 #include <stdlib.h>
 
+
 int main()
 {
     char screen[45*25+1];
     int width = 45;
     int height = 25;
     int game_state = 1;
+    int i=0;
 
     char input;
     title(screen, width, height);
     setTitle(screen,width,height);
     system("cls");
-
+     
     while(game_state)
-    {
+    { 
+        
+      
         printf("%s\nPlease enter your number: ", screen);
         scanf(" %c", &input);
 
@@ -28,6 +32,8 @@ int main()
             printf("%s\nPlease enter your number: ", screen);
             scanf(" %c", &input);
             
+            
+        }
             if(input == '1')
             {
                 system("cls");
@@ -40,7 +46,6 @@ int main()
                 title(screen, width, height);
                 sethow(screen,width,height);
             }
-        }
         else if(input == '3')
         {
             system("cls");
@@ -62,6 +67,7 @@ int main()
             }
         }
     }
+    
 
     return 0;
 }

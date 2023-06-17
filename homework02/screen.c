@@ -1,6 +1,7 @@
 #include "screen.h"
 #include <stdio.h>
 
+
 int title(char* screen, int width, int height)
 {
     int w = 0;

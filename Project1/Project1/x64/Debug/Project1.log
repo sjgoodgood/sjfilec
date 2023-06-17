@@ -1,0 +1,32 @@
+﻿  c.c
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\c.c(150,12): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xeb'이(가) 있습니다.
+  c2.c
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\c2.c(4,10): warning C4101: 'screenBuf' :참조되지 않은 지역 변수입니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\c2.c(8,9): warning C4101: 'input' :참조되지 않은 지역 변수입니다.
+  game.c
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(24,30): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(24,30): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(51,45): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(51,45): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(112,44): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(112,44): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(194,45): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(194,45): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(305,45): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(305,45): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(423,45): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(423,45): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(520,35): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(520,35): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(531,43): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(531,43): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(535,43): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(535,43): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(545,35): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(545,35): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(559,43): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\Project1\game.c(559,43): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+  gametext.c
+  코드를 생성하고 있습니다...
+  screen.h
+  Project1.vcxproj -> C:\Users\ㅇㅇㅇ\Desktop\과제\Project1\x64\Debug\Project1.exe

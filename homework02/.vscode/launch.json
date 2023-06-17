@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/test2",
-      "program": "d:/test2/build/Debug/outDebug",
+      "cwd": "d:/202327048/sjfilec/homework02",
+      "program": "d:/202327048/sjfilec/homework02/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
